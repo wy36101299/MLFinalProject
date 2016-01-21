@@ -11,7 +11,11 @@ ipynb : online版本比project多了有圖顯示和好閱讀
 Python2.7 dependencies  
 所需libraries都寫在requirements中  
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt  
+```
+or  
+```
+python setup.py install
 ```
 
 # Usage
